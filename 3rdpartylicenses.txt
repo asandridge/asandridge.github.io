@@ -41,7 +41,13 @@ MIT
 @ionic-native/core
 MIT
 
+@ionic-native/local-notifications
+MIT
+
 @ionic-native/native-storage
+MIT
+
+@ionic-native/open-native-settings
 MIT
 
 @ionic-native/splash-screen
