@@ -160,7 +160,7 @@ WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 --------------------------------------------------------------------------------
 core-js v3.6.4
-https://github.com/zloirock/core-js.git
+git+https://github.com/zloirock/core-js.git
 --------------------------------------------------------------------------------
 
 Copyright (c) 2014-2020 Denis Pushkarev
